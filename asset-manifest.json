@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.8213e690.css",
-    "main.js": "/my-react-app/static/js/main.ab856ef0.js",
-    "static/js/453.55b2104b.chunk.js": "/my-react-app/static/js/453.55b2104b.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/my-react-app/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/my-react-app/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/banner1.jpg": "/my-react-app/static/media/banner1.4a22881c941f7b645fa8.jpg",
-    "static/media/logo.svg": "/my-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-react-app/index.html",
-    "main.8213e690.css.map": "/my-react-app/static/css/main.8213e690.css.map",
-    "main.ab856ef0.js.map": "/my-react-app/static/js/main.ab856ef0.js.map",
-    "453.55b2104b.chunk.js.map": "/my-react-app/static/js/453.55b2104b.chunk.js.map"
+    "main.css": "/FontEnd_Reactjs/static/css/main.4b22dd82.css",
+    "main.js": "/FontEnd_Reactjs/static/js/main.db92196c.js",
+    "static/js/453.55b2104b.chunk.js": "/FontEnd_Reactjs/static/js/453.55b2104b.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/FontEnd_Reactjs/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/FontEnd_Reactjs/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/banner1.jpg": "/FontEnd_Reactjs/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "static/media/logo.svg": "/FontEnd_Reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FontEnd_Reactjs/index.html",
+    "main.4b22dd82.css.map": "/FontEnd_Reactjs/static/css/main.4b22dd82.css.map",
+    "main.db92196c.js.map": "/FontEnd_Reactjs/static/js/main.db92196c.js.map",
+    "453.55b2104b.chunk.js.map": "/FontEnd_Reactjs/static/js/453.55b2104b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8213e690.css",
-    "static/js/main.ab856ef0.js"
+    "static/css/main.4b22dd82.css",
+    "static/js/main.db92196c.js"
   ]
 }
